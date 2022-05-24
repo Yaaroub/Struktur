@@ -116,3 +116,19 @@ span{
   font-size: 60px;
   display: inline;
 }
+#footer{
+  text-align: center;
+  
+  color: #b9e3c6;
+}
+footer{
+  margin-top: 30px;
+  background-color: #23395b;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#footer2{
+  text-align: center;
+  
+  color: #b9e3c6;
+}
